@@ -1,4 +1,4 @@
-# Simple-C--project-with-OOP-
+# Simple-C++project-with-OOP-
 simple implementing and clarification for OOP concepts in c++
 
 
